@@ -1,0 +1,20 @@
+{
+  "model_type": "gradient_boosting",
+  "timestamp": "2026-05-02T16:37:15.239422",
+  "metrics": {
+    "mae": 2516.445923421761,
+    "rmse": 4268.210860261357,
+    "r2": 0.9008597400977287,
+    "median_ae": 1517.195033434602,
+    "mape": 0.33719528856550757,
+    "explained_variance": 0.9011931446263244
+  },
+  "features": [
+    "age",
+    "gender",
+    "bmi",
+    "smoker",
+    "region",
+    "children"
+  ]
+}

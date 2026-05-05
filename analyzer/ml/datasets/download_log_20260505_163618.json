@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-05-05T16:36:09.549158",
+  "downloads": [
+    {
+      "source": "statsmodels_insurance",
+      "name": "statsmodels_insurance.csv",
+      "records": 64,
+      "status": "success",
+      "timestamp": "2026-05-05T16:36:16.604219"
+    },
+    {
+      "source": "motor_insurance",
+      "name": "motor_insurance.csv",
+      "records": 6773,
+      "status": "success",
+      "timestamp": "2026-05-05T16:36:17.430580"
+    }
+  ],
+  "errors": [
+    {
+      "source": "uci_insurance",
+      "reason": "Failed to parse or download"
+    },
+    {
+      "source": "kaggle_medical_insurance",
+      "reason": "Failed to parse or download"
+    },
+    {
+      "source": "github_insurance_claims",
+      "reason": "Failed to parse or download"
+    },
+    {
+      "source": "github_vehicle_insurance",
+      "reason": "Failed to parse or download"
+    },
+    {
+      "source": "govt_health_insurance",
+      "reason": "Failed to parse or download"
+    },
+    {
+      "source": "synthetic_insurance",
+      "reason": "Failed to parse or download"
+    }
+  ],
+  "summary": {
+    "total_sources": 8,
+    "enabled_sources": 8,
+    "successful": 2,
+    "failed": 6,
+    "total_records_downloaded": 6837
+  }
+}

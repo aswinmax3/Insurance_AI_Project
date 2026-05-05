@@ -1,0 +1,64 @@
+{
+  "total_records": 2774,
+  "total_columns": 8,
+  "columns": [
+    "source",
+    "age",
+    "gender",
+    "bmi",
+    "charges",
+    "smoker",
+    "region",
+    "children"
+  ],
+  "dtypes": {
+    "source": "str",
+    "age": "int64",
+    "gender": "str",
+    "bmi": "float64",
+    "charges": "float64",
+    "smoker": "object",
+    "region": "str",
+    "children": "float64"
+  },
+  "missing_values": {
+    "source": 0,
+    "age": 0,
+    "gender": 0,
+    "bmi": 0,
+    "charges": 0,
+    "smoker": 0,
+    "region": 100,
+    "children": 100
+  },
+  "numeric_stats": {
+    "age": {
+      "mean": 39.01514059120404,
+      "median": 39.0,
+      "min": 18.0,
+      "max": 64.0,
+      "std": 13.922475636112372
+    },
+    "bmi": {
+      "mean": 30.477819033886085,
+      "median": 30.14,
+      "min": 15.96,
+      "max": 53.13,
+      "std": 6.094693471873996
+    },
+    "charges": {
+      "mean": 14214.264908189616,
+      "median": 9715.841,
+      "min": 1121.8739,
+      "max": 85000.0,
+      "std": 13518.201332430315
+    },
+    "children": {
+      "mean": 1.0957367240089753,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 5.0,
+      "std": 1.2053458984870338
+    }
+  }
+}

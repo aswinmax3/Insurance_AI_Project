@@ -1,0 +1,155 @@
+[
+  {
+    "customer_profile": {
+      "age": 30,
+      "bmi": 25,
+      "smoker": false,
+      "children": 0,
+      "source": "insurance",
+      "charges": 5000
+    },
+    "predicted_premium": 17967.32343932991,
+    "risk_level": "LOW",
+    "recommendation_confidence": 0.8594430729777888,
+    "top_recommendations": [
+      {
+        "name": "Term Life Insurance",
+        "match_score": 95,
+        "estimated_premium": 14373.85875146393,
+        "coverage": "\u20b950,00,000",
+        "explanation": "Best for your age and profile"
+      },
+      {
+        "name": "Whole Life Insurance",
+        "match_score": 85,
+        "estimated_premium": 21560.78812719589,
+        "coverage": "\u20b975,00,000",
+        "explanation": "Lifetime coverage with investment benefits"
+      },
+      {
+        "name": "Endowment Plan",
+        "match_score": 80,
+        "estimated_premium": 16170.59109539692,
+        "coverage": "\u20b930,00,000",
+        "explanation": "Combines insurance with savings"
+      },
+      {
+        "name": "Critical Illness Plan",
+        "match_score": 75,
+        "estimated_premium": 8983.661719664955,
+        "coverage": "\u20b920,00,000",
+        "explanation": "Covers major health conditions"
+      },
+      {
+        "name": "Health Insurance",
+        "match_score": 90,
+        "estimated_premium": 10780.394063597945,
+        "coverage": "\u20b95,00,000",
+        "explanation": "Essential for medical emergencies"
+      }
+    ],
+    "generated_at": "2026-05-02T16:37:16.493286"
+  },
+  {
+    "customer_profile": {
+      "age": 45,
+      "bmi": 28,
+      "smoker": true,
+      "children": 2,
+      "source": "motor_insurance",
+      "charges": 15000
+    },
+    "predicted_premium": 64302.60325231367,
+    "risk_level": "HIGH",
+    "recommendation_confidence": 0.8194764669056451,
+    "top_recommendations": [
+      {
+        "name": "Term Life Insurance",
+        "match_score": 95,
+        "estimated_premium": 51442.08260185094,
+        "coverage": "\u20b950,00,000",
+        "explanation": "Best for your age and profile"
+      },
+      {
+        "name": "Whole Life Insurance",
+        "match_score": 85,
+        "estimated_premium": 77163.1239027764,
+        "coverage": "\u20b975,00,000",
+        "explanation": "Lifetime coverage with investment benefits"
+      },
+      {
+        "name": "Endowment Plan",
+        "match_score": 80,
+        "estimated_premium": 57872.3429270823,
+        "coverage": "\u20b930,00,000",
+        "explanation": "Combines insurance with savings"
+      },
+      {
+        "name": "Critical Illness Plan",
+        "match_score": 75,
+        "estimated_premium": 32151.301626156834,
+        "coverage": "\u20b920,00,000",
+        "explanation": "Covers major health conditions"
+      },
+      {
+        "name": "Health Insurance",
+        "match_score": 90,
+        "estimated_premium": 38581.5619513882,
+        "coverage": "\u20b95,00,000",
+        "explanation": "Essential for medical emergencies"
+      }
+    ],
+    "generated_at": "2026-05-02T16:37:16.500276"
+  },
+  {
+    "customer_profile": {
+      "age": 55,
+      "bmi": 32,
+      "smoker": false,
+      "children": 1,
+      "source": "insurance",
+      "charges": 25000
+    },
+    "predicted_premium": 19066.588961434412,
+    "risk_level": "MEDIUM",
+    "recommendation_confidence": 0.7575295279727999,
+    "top_recommendations": [
+      {
+        "name": "Term Life Insurance",
+        "match_score": 95,
+        "estimated_premium": 15253.27116914753,
+        "coverage": "\u20b950,00,000",
+        "explanation": "Best for your age and profile"
+      },
+      {
+        "name": "Whole Life Insurance",
+        "match_score": 85,
+        "estimated_premium": 22879.906753721294,
+        "coverage": "\u20b975,00,000",
+        "explanation": "Lifetime coverage with investment benefits"
+      },
+      {
+        "name": "Endowment Plan",
+        "match_score": 80,
+        "estimated_premium": 17159.930065290973,
+        "coverage": "\u20b930,00,000",
+        "explanation": "Combines insurance with savings"
+      },
+      {
+        "name": "Critical Illness Plan",
+        "match_score": 75,
+        "estimated_premium": 9533.294480717206,
+        "coverage": "\u20b920,00,000",
+        "explanation": "Covers major health conditions"
+      },
+      {
+        "name": "Health Insurance",
+        "match_score": 90,
+        "estimated_premium": 11439.953376860647,
+        "coverage": "\u20b95,00,000",
+        "explanation": "Essential for medical emergencies"
+      }
+    ],
+    "generated_at": "2026-05-02T16:37:16.506912"
+  }
+]
